@@ -1,0 +1,11 @@
+Rule (DoubleNegationElimination)
+  Premise
+    ¬¬P
+  Conclusion
+    P
+  Proof
+    P=>P
+    ¬P=>P by PrincipleOfExplosion
+    P∨¬P by LawOfTheExludedMiddle
+  Therefore
+    P by DisjunctiveSyllogism

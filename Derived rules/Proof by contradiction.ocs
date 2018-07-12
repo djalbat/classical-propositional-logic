@@ -1,0 +1,10 @@
+Rule (ProofByContraction)
+  Premises
+    ¬P=>Q
+    ¬P=>¬Q
+  Conclusion
+    P
+  Proof
+    ¬¬P by ProofByNegation
+  Therefore
+    P by DoubleNegationElimination
