@@ -2,7 +2,7 @@
 
 Classical propositional logic for the [Occam](http://djalbat.com/occam) proof assistant.
 
-The implementation encompasses all of the intuitionistic propositional logic rules, plus the following:
+The implementation encompasses all of the rules for intuitionistic propositional logic, plus the following:
 
 \[
 \frac{\;}{P\lor\neg{P}}\quad\small\text{[LawOfTheExludedMiddle]}
