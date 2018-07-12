@@ -1,3 +1,6 @@
 {
+  "dependencies": [
+    "intuitionistic-propositional-logic"
+  ],
   "repository": "https://github.com/jecs-imperial/classical-propositional-logic"
 }
