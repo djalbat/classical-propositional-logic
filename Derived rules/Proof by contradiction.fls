@@ -1,7 +1,7 @@
 Rule (ProofByContraction)
   Premises
-    ¬P=>Q
-    ¬P=>¬Q
+    ¬P => Q
+    ¬P => ¬Q
   Conclusion
     P
   Proof
