@@ -1,8 +1,6 @@
 # Classical Propositional Logic
 
-Classical propositional logic for the [Occam](http://djalbat.com/occam) proof assistant.
-
-The implementation encompasses all of the rules for intuitionistic propositional logic, plus the following:
+Classical propositional logic for the [Occam](http://occam.science) proof assistant.
 
 \[
 \frac{\;}{P\lor\neg{P}}\quad\small\text{[LawOfTheExludedMiddle]}
