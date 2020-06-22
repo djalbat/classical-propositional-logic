@@ -1,4 +1,4 @@
-# Classical Propositional Logic
+ # Classical Propositional Logic
 
 Classical propositional logic for the [Occam](http://occam.science) proof assistant.
 

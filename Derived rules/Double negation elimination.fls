@@ -6,6 +6,6 @@ Rule (DoubleNegationElimination)
   Proof
     P => P
     ¬P => P by PrincipleOfExplosion
-    P ∨ ¬P by LawOfTheExludedMiddle
+    P \/ ¬P by LawOfTheExludedMiddle
   Therefore
     P by DisjunctiveSyllogism
