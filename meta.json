@@ -1,5 +1,5 @@
 {
-  "repository": "https://github.com/jecs-imperial/classical-propositional-logic",
+  "repository": "https://github.com/djalbat/classical-propositional-logic",
   "dependencies": [
     "intuitionistic-propositional-logic"
   ]
