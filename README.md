@@ -1,6 +1,6 @@
  # Classical Propositional Logic
 
-Classical propositional logic for the [Occam](http://occam.science) proof assistant.
+Classical propositional logic for [Occam](https://occam.science).
 
 \[
 \frac{\;}{P\lor\neg{P}}\quad\small\text{[LawOfTheExludedMiddle]}
@@ -12,5 +12,4 @@ Classical propositional logic for the [Occam](http://occam.science) proof assist
 
 ## Contact
 
-* james.smith@openmathematics.org
 * http://djalbat.com
