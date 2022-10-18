@@ -4,8 +4,12 @@ Rule (DoubleNegationElimination)
   Conclusion
     P
   Proof
-    P => P
+    Suppose
+      P
+    Therefore
+      P
+    P => P by ImplicationIntroduction
     ¬P => P by PrincipleOfExplosion
     P \/ ¬P by LawOfTheExludedMiddle
   Therefore
-    P by DisjunctiveSyllogism
+    P by ImplicationElimination
