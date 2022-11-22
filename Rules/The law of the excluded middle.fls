@@ -1,3 +1,4 @@
 Rule (LawOfTheExludedMiddle)
-  P \/ ¬P
+  Conclusion
+    P \/ ¬P
  
