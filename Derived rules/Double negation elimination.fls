@@ -12,4 +12,4 @@ Rule (DoubleNegationElimination)
     ¬P => P by PrincipleOfExplosion
     P \/ ¬P by LawOfTheExludedMiddle
   Therefore
-    P by ImplicationElimination
+    P by DisjunctionElimination
