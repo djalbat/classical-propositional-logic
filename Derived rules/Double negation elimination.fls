@@ -6,7 +6,7 @@ Rule (DoubleNegationElimination)
   Proof
     Suppose
       P
-    Therefore
+    Then
       P
     P => P by ImplicationIntroduction
     ¬P => P by PrincipleOfExplosion
