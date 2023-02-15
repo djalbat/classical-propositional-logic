@@ -6,7 +6,7 @@ Classical propositional logic for [Occam](https://occam.science).
 \frac{\;}{P\lor\neg{P}}\quad\small\text{[LawOfTheExludedMiddle]}
 \]
 
-As well as these rules there are many derived rules. See the package contents for details...
+As well as these rules there are many derived rules. See the package contents for details.
 
 ## Resources
 
