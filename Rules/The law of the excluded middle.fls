@@ -2,5 +2,4 @@ Metavariable P:Statement
 
 Rule (LawOfTheExludedMiddle)
   Conclusion
-    P \/ ¬P
- 
+    P ∨ ¬P
