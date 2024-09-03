@@ -6,7 +6,7 @@ Rule (DoubleNegationElimination)
   Conclusion
     P
   Proof
-    Premise
+    Suppose
       P
     Then
       P
