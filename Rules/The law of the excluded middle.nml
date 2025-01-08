@@ -1,5 +1,5 @@
 Metavariable P:Statement
 
-Rule (LawOfTheExludedMiddle)
+Rule (ExcludedMiddle,TheLawOfTheExludedMiddle)
   Conclusion
     P ∨ ¬P
