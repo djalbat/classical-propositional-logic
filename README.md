@@ -1,4 +1,4 @@
- # Classical Propositional Logic
+ # Classical Propositional Logic!
 
 Classical propositional logic for [Occam](https://occam.science).
 
