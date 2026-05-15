@@ -12,6 +12,6 @@ Rule (DoubleNegationElimination)
       P
     P ⇒ P by ImplicationIntroduction
     ¬P ⇒ P by PrincipleOfExplosion
-    P ∨ ¬P by TheLawOfTheExludedMiddle
+    P ∨ ¬P by LawOfTheExludedMiddle
   Therefore
     P by DisjunctionElimination
